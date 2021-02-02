@@ -1,0 +1,102 @@
+[
+  {
+    "image": "./img/assets/0.png",
+    "name": "3D LUVRS #1",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "balck_box, 1011, black_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/1.png",
+    "name": "3D LUVRS #1",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "mooninati, 1011, black_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/2.png",
+    "name": "3D LUVRS #2",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "neon_door, 102, blue_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/3.png",
+    "name": "3D LUVRS #3",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "neon_door, 097, black_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/4.png",
+    "name": "3D LUVRS #4",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "white_balls, 097, black_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/5.png",
+    "name": "3D LUVRS #5",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "neon_door, 1011, purple",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/6.png",
+    "name": "3D LUVRS #6",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "unicorn, 1047, green_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/7.png",
+    "name": "3D LUVRS #7",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "mooninati, 095, blue_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/8.png",
+    "name": "3D LUVRS #8",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "black_box, 1047, black_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  },
+  {
+    "image": "./img/assets/9.png",
+    "name": "3D LUVRS #9",
+    "symbol": "LUVR",
+    "description": "description of your collection",
+    "attributes": "candy_land, 102, green_heart",
+    "collection": "3D LUVRS",
+    "creators": "CCmL...FduA",
+    "royalties": "7"
+  }
+]
